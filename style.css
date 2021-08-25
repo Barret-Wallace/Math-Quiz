@@ -1,0 +1,30 @@
+body{
+    background: red;
+}
+#P1{
+    background: white;
+    width: 800px;
+}
+#P2{
+    background: white;
+    width: 800px;
+}
+.login{
+    background: blue;
+    width: 300px;
+    color: white;
+}
+#body2{
+    margin-top: 289px;
+}
+#empty_div{
+    background: white;
+    width: 500px;
+}
+#number1_input, #number2_input{
+    width: 500px;
+}
+.Send{
+    background: lightgreen;
+    width: 300px;
+}
